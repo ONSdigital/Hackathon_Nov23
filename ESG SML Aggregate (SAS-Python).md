@@ -21,5 +21,5 @@ Verify you have the GitHub Copilot and GitHub Copilot Chat extensions installed.
 
 You can choose to either copy the code into a SAS file in your workspace OR simply paste it directly into Copilot Chat. Open GitHub Copilot Chat and attempt to ask GPT-4 to convert the code for you, try playing around with the right prompts for example
 
-Examples
+**Examples**
 	Ø  Take this SAS code and convert it into a modern Python Application for me. Save the output to a Python file and verify that it works.
