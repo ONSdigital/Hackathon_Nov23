@@ -5,8 +5,8 @@ Hackathon template repository. This repository have all the informaton on **Proj
 Use this template repository to create your on team repository for the Hackathon using following naming convention:<br>
 Each team will have its own repository, see below:<br>
 
-        hackathon-nov23-team-_[name]_<br>
-        hackathon-nov23-team-_1_<br>
+        hackathon-nov23-team-[name]
+        hackathon-nov23-team-1
 
 ## Useful links for GitHub Copilot/Copilot Chat
 
