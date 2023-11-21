@@ -1,8 +1,8 @@
 # Hackathon_Nov23 (24-28th November, 2023)
 
 > [!important]  
-> The access to  GitHub Copilot, Copilot Chat and GCP environment/API's is only for Hackathon purpose.
-> <br>
+> 1. GitHub Copilot, Copilot Chat and GCP environment/API's are made vaiable for the hackathon purpose only. Do not submit other ONS information, regardless of its nature to the services etc.
+> 2. Off-network devices to be mandated for hackathon participation.
 
 Hackathon template repository. This repository have all the informaton on **Project Challenges**, **Hackathon Guidance Notes** and **Checklist** documents. <br>
 
