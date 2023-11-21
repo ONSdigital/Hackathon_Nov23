@@ -1,4 +1,4 @@
-# Hackathon_Nov23 (24-28th November, 2023)
+# Hackathon_Nov23 (24-28th November, 2023) 24th Nov-09:30 to 28th Nov-1700
 
 > [!important]  
 > 1. GitHub Copilot, Copilot Chat and GCP environment/API's are made vaiable for the hackathon purpose only. Do not submit other ONS information, regardless of its nature to the services etc.
